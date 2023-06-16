@@ -1,0 +1,229 @@
+@media (min-width: 740px) and (max-width: 1023px) {
+    .content-infor>p{
+        text-align: center;
+    }
+    .process{
+        padding-left: 0;
+    }
+    .main-content{
+        height: auto;
+    }
+    .content{
+        padding-bottom: 100px;
+    }
+    .main-image{
+        width: 100%;
+    }
+    .content{
+        width: 100%;
+    }
+    .sub-image{
+        width: 100%;
+    }
+    .people{
+        width: 100%;
+    }
+    .articles{
+        width: 100%;
+    }
+    .map{
+        width: 100%;
+    }
+    .footer{
+        width: 100%;
+    }
+    .video-email{
+        flex-direction: column;
+    }
+    .logo{
+        width: calc(var(--width) * 3);
+        margin: 0;
+    }
+    .logo-articles{
+        justify-content: center;
+    }
+    .box-talk-form {
+        width: 50%;
+    }
+    .planning-item {
+        margin-bottom: 50px;
+    }
+}
+@media (max-width: 400px) {
+    .logo{
+        width: calc(var(--width) * 1) !important;
+        margin: 0 !important;
+    }
+    .content-infor>p{
+        text-align: center;
+    }
+    .process{
+        padding-left: 0;
+    }
+    .main-content{
+        height: auto;
+    }
+    .content{
+        padding-bottom: 100px;
+    }
+    .main-image{
+        width: 100%;
+    }
+    .content{
+        width: 100%;
+    }
+    .sub-image{
+        width: 100%;
+    }
+    .people{
+        width: 100%;
+    }
+    .articles{
+        width: 100%;
+    }
+    .map{
+        width: 100%;
+    }
+    .footer{
+        width: 100%;
+    }
+    .video-email{
+        flex-direction: column;
+    }
+    .logo{
+        width: calc(var(--width) * 3);
+        margin: 0;
+    }
+    .logo-articles{
+        justify-content: center;
+    }
+    .box-talk-form {
+        width: 70%;
+    }
+    .planning-item {
+        margin-bottom: 50px;
+    }
+}
+@media (max-width: 739px) {
+    .map{
+        margin: 10px 0 0 0;
+    }
+    .map-infor>p{
+        font-size: 10px;
+    }
+    .map-infor{
+        padding: 10px;
+        box-shadow: none;
+        position: unset;
+        transform-origin: none;
+        transform: scale(1);
+        border-radius: 0;
+    }
+    .project-item__title>h3{
+        font-size: 12px;
+    }
+    .project-item__title>p{
+        font-size: 10px;
+    }
+    .show-on-mobile-flex{
+        display: flex !important;
+    }
+    .show-on-mobile{
+        display: block !important;
+    }
+    .hide-on-mobile{
+        display: none !important;
+    }
+    .planning-item {
+        margin-bottom: 50px;
+    }
+    .project-menu{
+        display: none;
+    }
+    .caption{
+        top: 15%;
+    }
+    .planning>h3{
+        padding-top: 0;
+    }
+    .caption h3 {
+        font-size: 20px;
+    }
+    .content-infor>p{
+        text-align: center;
+    }
+    .process{
+        padding-left: 0;
+    }
+    .main-content{
+        padding: 20px;
+        height: auto;
+    }
+    .content{
+        padding-bottom: 100px;
+    }
+    .main-image{
+        height: 300px;
+        width: 100vw;
+    }
+    .main-image>img{
+        width: 200%;
+    }
+    .content{
+        padding: 0px 20px;
+        width: 100%;
+    }
+    .sub-image{
+        width: 100%;
+        height: 300px;
+    }
+    .video>h3{
+        font-size: 15px;
+    }
+    .video>.play {
+        height: 50px;
+        width: 50px;
+    }
+    .people{
+        width: 100%;
+    }
+    .articles{
+        padding: 0 20px;
+        width: 100%;
+    }
+    .articles-item{
+        margin-bottom: 50px;
+    }
+    .map{
+        width: 100%;
+    }
+    .footer{
+        margin: 0;
+        width: 100%;
+    }
+    .video-email{
+        flex-direction: column;
+    }
+    .logo{
+        width: calc(var(--width) * 2);
+        margin: 0;
+    }
+    .logo-articles{
+        justify-content: center;
+    }
+    .box-talk-form {
+        width: 70%;
+    }
+    .project{
+        padding: 0px 20px;
+    }
+    .main-people{
+        padding: 0 20px;
+    }
+    .people-item{
+        margin-bottom: 50px;
+    }
+    .footer-item ul {
+        align-items: center;
+    }
+}
